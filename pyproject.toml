@@ -1,0 +1,8 @@
+[project]
+name = "lab-06-s3"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "boto3>=1.43.117",
+    "requests>=2.34.2",
+]
